@@ -78,11 +78,15 @@
 
 ## Разработка
 
+- [Buggregator](https://buggregator.dev) — инструмент для сбора логов, var-dump'ов, исключений, email'ов и прочего в целях отладки неумирающих PHP-приложений.
+  - [buggregator/server] — Docker-контейнер для использования в микросервисной архитектуре.
+  - [buggregator/trap] — var-dumper (клиент) и мини-сервер Buggregator для локального использования.
 
 ## Разное
 
 
-
+[buggregator/trap]: https://github.com/buggregator/trap
+[buggregator/server]: https://github.com/buggregator/server
 [cycle/database]: https://github.com/cycle/database
 [cycle/orm]: https://github.com/cycle/orm
 [cycle/active-record]: https://github.com/cycle/active-record
