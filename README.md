@@ -58,6 +58,7 @@ Contributions welcome!
 
 ### Middleware
 
+- [yiisoft/http-middleware] — a collection of middleware with a focus on HTTP protocol features.
 - [yiisoft/csrf] — CSRF protection middleware.
 - [yiisoft/session] — session and flash message middleware.
 
@@ -93,6 +94,7 @@ Contributions welcome!
 [yiisoft/db-sqlite]: https://github.com/yiisoft/db-sqlite
 [yiisoft/docs]: https://github.com/yiisoft/docs
 [yiisoft/log-target-db]: https://github.com/yiisoft/log-target-db
+[yiisoft/http-middleware]: https://github.com/yiisoft/http-middleware
 [yiisoft/rbac-cycle-db]: https://github.com/yiisoft/rbac-cycle-db
 [yiisoft/session]: https://github.com/yiisoft/session
 [yiisoft/translator-message-db]: https://github.com/yiisoft/translator-message-db
