@@ -2,7 +2,7 @@
 
 <a href="https://www.yiiframework.com">
   <picture alt="Yii3 Logo" align="right" style="margin-right: 25px">
-    <img height="125" alt="Yii3 Logo" align="right" style="margin-right: 25px" src="https://github.com/roxblnfk/awesome-yii3/blob/master/asset/yii3-logo.svg?raw=true">
+    <img height="125" alt="Yii3 Logo" align="right" style="margin-right: 25px" src="https://github.com/roxblnfk/awesome-yii3/blob/main/asset/yii3-logo.svg?raw=true">
   </picture>
 </a>
 
