@@ -20,17 +20,16 @@
 
 - [Сообщество](#сообщество)
 - [Обучающие материалы](#обучающие-материалы)
-- [Шаблоны проектов](#шаблоны-проектов)
-- [Пакеты](#пакеты)
 - [Шаблоны](#шаблоны)
+- [Пакеты](#пакеты)
 - [Разработка](#разработка)
 - [Разное](#разное)
 
 
 ## Сообщество
 
-- [Yii 3 PHP framework](https://t.me/yii3ru) — русскоязычный чат Yii3 в Telegram.
-- [Хроники Yii3](https://t.me/yii3chronicles) — канал в Telegram, посвящённый новостям и обновлениям Yii3.
+- [Yii 3 PHP framework](https://t.me/yii3ru) — русскоязычный чат Yii3.
+- [Хроники Yii3](https://t.me/yii3chronicles) — канал с новостями и обновлениями Yii3.
 
 ## Обучающие материалы
 
@@ -40,14 +39,25 @@
 
 ### Видео
 
-- [Обзор релиза Yii3 App 1.0.0](https://www.youtube.com/watch?v=ksjGwhvVcN8) — первый взгляд на yiisoft/app v1.0.0 (PHP Fart Time)
+- `2025-09-02` [Обзор релиза Yii3 App 1.0.0](https://www.youtube.com/watch?v=ksjGwhvVcN8) — первый взгляд на yiisoft/app v1.0.0 (PHP Fart Time)
 
 ### Статьи
 
+- `2021-11-14` [Yii3 будет не тем, чего я ожидал](https://habr.com/ru/articles/589019/)
+- `2022-10-26` [Yii3 Overview 1. Вступление](https://habr.com/ru/articles/695664/)
+- `2022-11-07` [Yii3 Overview 2. Вспомогательные инструменты разработки](https://habr.com/ru/articles/697586/)
+- `2022-11-29` [Yii3 Overview 3. Обзор app-* шаблонов и demo](https://habr.com/ru/articles/697676/)
+- `2023-02-23` [Yii Validator — простой и мощный](https://habr.com/ru/articles/718444/)
+
 ### Курсы
 
+*Всё впереди...*
 
-## Шаблоны проектов
+## Шаблоны
+
+- [yiisoft/app] — базовый шаблон для веб-приложений.
+- [yiisoft/app-api] — базовый шаблон для API-приложений.
+- [yiisoft/app-console] — базовый шаблон для консольных приложений.
 
 ## Пакеты
 
@@ -66,9 +76,6 @@
 ### Middleware
 
 
-## Шаблоны
-
-
 ## Разработка
 
 
@@ -80,6 +87,9 @@
 [cycle/orm]: https://github.com/cycle/orm
 [cycle/active-record]: https://github.com/cycle/active-record
 [yiisoft/active-record]: https://github.com/yiisoft/active-record
+[yiisoft/app]: https://github.com/yiisoft/app
+[yiisoft/app-api]: https://github.com/yiisoft/app-api
+[yiisoft/app-console]: https://github.com/yiisoft/app-console
 [yiisoft/cache-db]: https://github.com/yiisoft/cache-db
 [yiisoft/data-cycle]: https://github.com/yiisoft/data-cycle
 [yiisoft/data-db]: https://github.com/yiisoft/data-db
