@@ -58,6 +58,7 @@ Contributions welcome!
 
 ### Middleware
 
+- [yiisoft/csrf] — CSRF protection middleware.
 
 ## Development
 
@@ -79,6 +80,7 @@ Contributions welcome!
 [yiisoft/app-api]: https://github.com/yiisoft/app-api
 [yiisoft/app-console]: https://github.com/yiisoft/app-console
 [yiisoft/cache-db]: https://github.com/yiisoft/cache-db
+[yiisoft/csrf]: https://github.com/yiisoft/csrf
 [yiisoft/data-cycle]: https://github.com/yiisoft/data-cycle
 [yiisoft/data-db]: https://github.com/yiisoft/data-db
 [yiisoft/db]: https://github.com/yiisoft/db
