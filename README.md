@@ -28,45 +28,45 @@ Contributions welcome!
 
 ## Community
 
-- [Yii 3 PHP framework](https://t.me/yii3en) — Yii3 Telegram chat (English).
+- [Yii 3 PHP framework](https://t.me/yii3en) - Yii3 Telegram chat (English).
 
 ## Educational
 
 ### Documentation
 
-- [yiisoft/docs] — Yii3 documentation repository.
+- [yiisoft/docs] - Yii3 documentation repository.
 
 ## Templates
 
-- [yiisoft/app] — basic template for web applications.
-- [yiisoft/app-api] — basic template for API applications.
-- [yiisoft/app-console] — basic template for console applications.
+- [yiisoft/app] - basic template for web applications.
+- [yiisoft/app-api] - basic template for API applications.
+- [yiisoft/app-console] - basic template for console applications.
 
 ## Packages
 
 ### Databases
 
 - Yii
-  - [yiisoft/db] — official DBAL with support for multiple DBMS.
-  - [yiisoft/active-record] — the Active Record.
+  - [yiisoft/db] - official DBAL with support for multiple DBMS.
+  - [yiisoft/active-record] - the Active Record.
   - Drivers: [PostgreSQL][yiisoft/db-pgsql], [MySQL][yiisoft/db-mysql], [SQLite][yiisoft/db-sqlite], [SQL Server][yiisoft/db-mssql], [Oracle][yiisoft/db-oracle].
   - Adapters: [Data][yiisoft/data-db], [RBAC][yiisoft/rbac-db], [Migrations][yiisoft/db-migration], [Logger][yiisoft/log-target-db], [Cache][yiisoft/cache-db], [Translation][yiisoft/translator-message-db]
 - Cycle
-  - [yiisoft/yii-cycle] — bridge for Cycle integration. Includes all the most popular modules: [DBAL][cycle/database], [ORM][cycle/orm], migrations, attributes, etc.
-  - [cycle/active-record] — Active Record based on Cycle.
+  - [yiisoft/yii-cycle] - bridge for Cycle integration. Includes all the most popular modules: [DBAL][cycle/database], [ORM][cycle/orm], migrations, attributes, etc.
+  - [cycle/active-record] - Active Record based on Cycle.
   - Adapters: [Data][yiisoft/data-cycle], [RBAC][yiisoft/rbac-cycle-db].
 
 ### Middleware
 
-- [yiisoft/http-middleware] — a collection of middleware with a focus on HTTP protocol features.
-- [yiisoft/csrf] — CSRF protection middleware.
-- [yiisoft/session] — session and flash message middleware.
+- [yiisoft/http-middleware] - a collection of middleware with a focus on HTTP protocol features.
+- [yiisoft/csrf] - CSRF protection middleware.
+- [yiisoft/session] - session and flash message middleware.
 
 ## Development
 
-- [Buggregator](https://buggregator.dev) — a tool for collecting logs, var-dumps, exceptions, emails, and more for debugging immortal PHP applications.
-  - [buggregator/server] — Docker container for use in microservice architecture.
-  - [buggregator/trap] — var-dumper (client) and mini Buggregator server for local use.
+- [Buggregator](https://buggregator.dev) - a tool for collecting logs, var-dumps, exceptions, emails, and more for debugging immortal PHP applications.
+  - [buggregator/server] - Docker container for use in microservice architecture.
+  - [buggregator/trap] - var-dumper (client) and mini Buggregator server for local use.
 
 ## Miscellaneous
 

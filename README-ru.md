@@ -6,7 +6,7 @@
   </picture>
 </a>
 
-> [Yii3](https://www.yiiframework.com) — высокопроизводительный, компонентный PHP-фреймворк для быстрой разработки современных веб-приложений.
+> [Yii3](https://www.yiiframework.com) - высокопроизводительный, компонентный PHP-фреймворк для быстрой разработки современных веб-приложений.
 
 Курируемый список потрясающих middlewares, шаблонов, рецептов, статей и инструментов для Yii3.
 
@@ -28,24 +28,24 @@
 
 ## Сообщество
 
-- [Yii 3 PHP framework](https://t.me/yii3ru) — русскоязычный чат Yii3.
-- [Хроники Yii3](https://t.me/yii3chronicles) — канал с новостями и обновлениями Yii3.
+- [Yii 3 PHP framework](https://t.me/yii3ru) - русскоязычный чат Yii3.
+- [Хроники Yii3](https://t.me/yii3chronicles) - канал с новостями и обновлениями Yii3.
 
 ## Обучающие материалы
 
 ### Документация
 
-- [yiisoft/docs] — репозиторий с документацией Yii3.
+- [yiisoft/docs] - репозиторий с документацией Yii3.
 
 ### Видео
 
 - `2023-11-28` [Качество и контроль в большом Open Source-проекте](https://www.youtube.com/watch?v=KRDGQzY4ByA). *Александр Макаров; HighLoad++*.
 - `2024-04-23` [Знакомство с Yii: история фреймворка, отличия от Laravel и Symfony, архитектура](https://www.youtube.com/watch?v=Lnicap1pmp4). *Александр Макаров; Люди и код*.
-- `2024-06-27` [Про Yii3 и не только](https://www.youtube.com/watch?v=yliGczBgWmc) — о прошлом и будущем Yii, о текущем статусе Yii3. *Александр Макаров*.
-- `2024-12-02` [Yii3](https://www.youtube.com/watch?v=iTwx3lZYf5s) — что умеет, чем отличается от Yii2, почему сделан так, а не иначе. *Александр Макаров; HighLoad++*.
-- `2025-09-02` [Обзор релиза Yii3 App 1.0.0](https://www.youtube.com/watch?v=ksjGwhvVcN8) — первый взгляд на [yiisoft/app] v1.0.0. *Алексей Гагарин, Павел Бучнев; PHP Fart Time*.
-- `2025-09-19` [SaaS-платформа на Yii3](https://www.youtube.com/watch?v=_nJLq6ME6kQ) — как Yii3 позволяет создавать слабо связанную архитектуру и легко подключать любые сторонние библиотеки. *Сергей Болтрукевич; Пых.конф’25*.
-- `2025-09-19` [Внутри Yii3](https://www.youtube.com/watch?v=S9gpnjFaZY8) — *Александр Макаров; Пых.конф’25*.
+- `2024-06-27` [Про Yii3 и не только](https://www.youtube.com/watch?v=yliGczBgWmc) - о прошлом и будущем Yii, о текущем статусе Yii3. *Александр Макаров*.
+- `2024-12-02` [Yii3](https://www.youtube.com/watch?v=iTwx3lZYf5s) - что умеет, чем отличается от Yii2, почему сделан так, а не иначе. *Александр Макаров; HighLoad++*.
+- `2025-09-02` [Обзор релиза Yii3 App 1.0.0](https://www.youtube.com/watch?v=ksjGwhvVcN8) - первый взгляд на [yiisoft/app] v1.0.0. *Алексей Гагарин, Павел Бучнев; PHP Fart Time*.
+- `2025-09-19` [SaaS-платформа на Yii3](https://www.youtube.com/watch?v=_nJLq6ME6kQ) - как Yii3 позволяет создавать слабо связанную архитектуру и легко подключать любые сторонние библиотеки. *Сергей Болтрукевич; Пых.конф’25*.
+- `2025-09-19` [Внутри Yii3](https://www.youtube.com/watch?v=S9gpnjFaZY8) - *Александр Макаров; Пых.конф’25*.
 
 
 ### Статьи
@@ -54,7 +54,7 @@
 - `2022-10-26` [Yii3 Overview 1. Вступление](https://habr.com/ru/articles/695664/)
 - `2022-11-07` [Yii3 Overview 2. Вспомогательные инструменты разработки](https://habr.com/ru/articles/697586/)
 - `2022-11-29` [Yii3 Overview 3. Обзор app-* шаблонов и demo](https://habr.com/ru/articles/697676/)
-- `2023-02-23` [Yii Validator — простой и мощный](https://habr.com/ru/articles/718444/)
+- `2023-02-23` [Yii Validator - простой и мощный](https://habr.com/ru/articles/718444/)
 
 ### Курсы
 
@@ -62,35 +62,35 @@
 
 ## Шаблоны
 
-- [yiisoft/app] — базовый шаблон для веб-приложений.
-- [yiisoft/app-api] — базовый шаблон для API-приложений.
-- [yiisoft/app-console] — базовый шаблон для консольных приложений.
+- [yiisoft/app] - базовый шаблон для веб-приложений.
+- [yiisoft/app-api] - базовый шаблон для API-приложений.
+- [yiisoft/app-console] - базовый шаблон для консольных приложений.
 
 ## Пакеты
 
 ### Базы данных
 
 - Yii
-  - [yiisoft/db] — официальный DBAL с поддержкой нескольких СУБД.
-  - [yiisoft/active-record] — тот самый Active Record.
+  - [yiisoft/db] - официальный DBAL с поддержкой нескольких СУБД.
+  - [yiisoft/active-record] - тот самый Active Record.
   - Дравера: [PostgreSQL][yiisoft/db-pgsql], [MySQL][yiisoft/db-mysql], [SQLite][yiisoft/db-sqlite], [SQL Server][yiisoft/db-mssql], [Oracle][yiisoft/db-oracle].
   - Адаптеры: [Data][yiisoft/data-db], [RBAC][yiisoft/rbac-db], [Migrations][yiisoft/db-migration], [Logger][yiisoft/log-target-db], [Cache][yiisoft/cache-db], [Translation][yiisoft/translator-message-db]
 - Cycle
-  - [yiisoft/yii-cycle] — бридж для интеграции Cycle. Включает все наиболее востребованные модули: [DBAL][cycle/database], [ORM][cycle/orm], миграции, атрибуты и т.д.
-  - [cycle/active-record] — Active Record на базе Cycle.
+  - [yiisoft/yii-cycle] - бридж для интеграции Cycle. Включает все наиболее востребованные модули: [DBAL][cycle/database], [ORM][cycle/orm], миграции, атрибуты и т.д.
+  - [cycle/active-record] - Active Record на базе Cycle.
   - Адаптеры: [Data][yiisoft/data-cycle], [RBAC][yiisoft/rbac-cycle-db].
 
 ### Middleware
 
-- [yiisoft/http-middleware] — набор middleware с прицелом на особенности HTTP протокола.
-- [yiisoft/csrf] — middleware для защиты от CSRF.
-- [yiisoft/session] — middleware для работы с сессиями и flash-сообщениями.
+- [yiisoft/http-middleware] - набор middleware с прицелом на особенности HTTP протокола.
+- [yiisoft/csrf] - middleware для защиты от CSRF.
+- [yiisoft/session] - middleware для работы с сессиями и flash-сообщениями.
 
 ## Разработка
 
-- [Buggregator](https://buggregator.dev) — инструмент для сбора логов, var-dump'ов, исключений, email'ов и прочего в целях отладки неумирающих PHP-приложений.
-  - [buggregator/server] — Docker-контейнер для использования в микросервисной архитектуре.
-  - [buggregator/trap] — var-dumper (клиент) и мини-сервер Buggregator для локального использования.
+- [Buggregator](https://buggregator.dev) - инструмент для сбора логов, var-dump'ов, исключений, email'ов и прочего в целях отладки неумирающих PHP-приложений.
+  - [buggregator/server] - Docker-контейнер для использования в микросервисной архитектуре.
+  - [buggregator/trap] - var-dumper (клиент) и мини-сервер Buggregator для локального использования.
 
 ## Разное
 
