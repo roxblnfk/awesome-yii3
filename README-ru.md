@@ -39,7 +39,14 @@
 
 ### Видео
 
-- `2025-09-02` [Обзор релиза Yii3 App 1.0.0](https://www.youtube.com/watch?v=ksjGwhvVcN8) — первый взгляд на yiisoft/app v1.0.0 (PHP Fart Time)
+- `2023-11-28` [Качество и контроль в большом Open Source-проекте](https://www.youtube.com/watch?v=KRDGQzY4ByA). *Александр Макаров; HighLoad++*.
+- `2024-04-23` [Знакомство с Yii: история фреймворка, отличия от Laravel и Symfony, архитектура](https://www.youtube.com/watch?v=Lnicap1pmp4). *Александр Макаров; Люди и код*.
+- `2024-06-27` [Про Yii3 и не только](https://www.youtube.com/watch?v=yliGczBgWmc) — о прошлом и будущем Yii, о текущем статусе Yii3. *Александр Макаров*.
+- `2024-12-02` [Yii3](https://www.youtube.com/watch?v=iTwx3lZYf5s) — что умеет, чем отличается от Yii2, почему сделан так, а не иначе. *Александр Макаров; HighLoad++*.
+- `2025-09-02` [Обзор релиза Yii3 App 1.0.0](https://www.youtube.com/watch?v=ksjGwhvVcN8) — первый взгляд на [yiisoft/app] v1.0.0. *Алексей Гагарин, Павел Бучнев; PHP Fart Time*.
+- `2025-09-19` [SaaS-платформа на Yii3](https://www.youtube.com/watch?v=_nJLq6ME6kQ) — как Yii3 позволяет создавать слабо связанную архитектуру и легко подключать любые сторонние библиотеки. *Сергей Болтрукевич; Пых.конф’25*.
+- `2025-09-19` [Внутри Yii3](https://www.youtube.com/watch?v=S9gpnjFaZY8) — *Александр Макаров; Пых.конф’25*.
+
 
 ### Статьи
 
