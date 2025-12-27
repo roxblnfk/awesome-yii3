@@ -6,14 +6,14 @@
   </picture>
 </a>
 
-> [Yii](https://www.yiiframework.com) is a high-performance, component-based PHP framework for rapidly developing modern Web applications.
+> [Yii3](https://www.yiiframework.com) is a high-performance, component-based PHP framework for rapidly developing modern Web applications.
 
 A curated list of awesome Yii3 middlewares, boilerplates, recipes, articles and tools.
 
+Contributions welcome!
+
 [![English readme](https://img.shields.io/badge/English-%20%F0%9F%87%BA%F0%9F%87%B8-moccasin?style=flat&color=%23ae40A6)](README.md)
 [![Russian readme](https://img.shields.io/badge/Русский-%20%F0%9F%87%B7%F0%9F%87%BA-moccasin?style=flat&color=%23ae40A6)](README-ru.md)
-
-Contributions welcome!
 <br/>
 
 ## Contents
