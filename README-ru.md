@@ -83,6 +83,7 @@
 ### Middleware
 
 - [yiisoft/csrf] — middleware для защиты от CSRF.
+- [yiisoft/session] — middleware для работы с сессиями и flash-сообщениями.
 
 ## Разработка
 
@@ -116,6 +117,7 @@
 [yiisoft/docs]: https://github.com/yiisoft/docs
 [yiisoft/log-target-db]: https://github.com/yiisoft/log-target-db
 [yiisoft/rbac-cycle-db]: https://github.com/yiisoft/rbac-cycle-db
+[yiisoft/session]: https://github.com/yiisoft/session
 [yiisoft/translator-message-db]: https://github.com/yiisoft/translator-message-db
 [yiisoft/yii-cycle]: https://github.com/yiisoft/yii-cycle
 [yiisoft/rbac-db]: https://github.com/yiisoft/rbac-db
