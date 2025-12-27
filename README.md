@@ -18,27 +18,80 @@ Contributions welcome!
 
 ## Contents
 
+- [Community](#community)
 - [Educational](#educational)
-- [Boilerplate](#boilerplate)
-- [Middlewares](#middlewares)
-- [Templating](#templating)
+- [Templates](#templates)
+- [Packages](#packages)
 - [Development](#development)
 - [Miscellaneous](#miscellaneous)
 
+
+## Community
+
+- [Yii 3 PHP framework](https://t.me/yii3en) — Russian-speaking Yii3 chat.
+
 ## Educational
 
+### Documentation
 
-## Boilerplate
+- [yiisoft/docs] — Yii3 documentation repository.
 
+## Templates
 
-## Middlewares
+- [yiisoft/app] — basic template for web applications.
+- [yiisoft/app-api] — basic template for API applications.
+- [yiisoft/app-console] — basic template for console applications.
 
+## Packages
 
-## Templating
+### Databases
+
+- Yii
+  - [yiisoft/db] — official DBAL with support for multiple DBMS.
+  - [yiisoft/active-record] — the Active Record.
+  - Drivers: [PostgreSQL][yiisoft/db-pgsql], [MySQL][yiisoft/db-mysql], [SQLite][yiisoft/db-sqlite], [SQL Server][yiisoft/db-mssql], [Oracle][yiisoft/db-oracle].
+  - Adapters: [Data][yiisoft/data-db], [RBAC][yiisoft/rbac-db], [Migrations][yiisoft/db-migration], [Logger][yiisoft/log-target-db], [Cache][yiisoft/cache-db], [Translation][yiisoft/translator-message-db]
+- Cycle
+  - [yiisoft/yii-cycle] — bridge for Cycle integration. Includes all the most popular modules: [DBAL][cycle/database], [ORM][cycle/orm], migrations, attributes, etc.
+  - [cycle/active-record] — Active Record based on Cycle.
+  - Adapters: [Data][yiisoft/data-cycle], [RBAC][yiisoft/rbac-cycle-db].
+
+### Middleware
 
 
 ## Development
 
+- [Buggregator](https://buggregator.dev) — a tool for collecting logs, var-dumps, exceptions, emails, and more for debugging immortal PHP applications.
+  - [buggregator/server] — Docker container for use in microservice architecture.
+  - [buggregator/trap] — var-dumper (client) and mini Buggregator server for local use.
 
 ## Miscellaneous
+
+
+
+[buggregator/trap]: https://github.com/buggregator/trap
+[buggregator/server]: https://github.com/buggregator/server
+[cycle/database]: https://github.com/cycle/database
+[cycle/orm]: https://github.com/cycle/orm
+[cycle/active-record]: https://github.com/cycle/active-record
+[yiisoft/active-record]: https://github.com/yiisoft/active-record
+[yiisoft/app]: https://github.com/yiisoft/app
+[yiisoft/app-api]: https://github.com/yiisoft/app-api
+[yiisoft/app-console]: https://github.com/yiisoft/app-console
+[yiisoft/cache-db]: https://github.com/yiisoft/cache-db
+[yiisoft/data-cycle]: https://github.com/yiisoft/data-cycle
+[yiisoft/data-db]: https://github.com/yiisoft/data-db
+[yiisoft/db]: https://github.com/yiisoft/db
+[yiisoft/db-migration]: https://github.com/yiisoft/db-migration
+[yiisoft/db-mssql]: https://github.com/yiisoft/db-mssql
+[yiisoft/db-mysql]: https://github.com/yiisoft/db-mysql
+[yiisoft/db-oracle]: https://github.com/yiisoft/db-oracle
+[yiisoft/db-pgsql]: https://github.com/yiisoft/db-pgsql
+[yiisoft/db-sqlite]: https://github.com/yiisoft/db-sqlite
+[yiisoft/docs]: https://github.com/yiisoft/docs
+[yiisoft/log-target-db]: https://github.com/yiisoft/log-target-db
+[yiisoft/rbac-cycle-db]: https://github.com/yiisoft/rbac-cycle-db
+[yiisoft/translator-message-db]: https://github.com/yiisoft/translator-message-db
+[yiisoft/yii-cycle]: https://github.com/yiisoft/yii-cycle
+[yiisoft/rbac-db]: https://github.com/yiisoft/rbac-db
 
