@@ -28,7 +28,7 @@ Contributions welcome!
 
 ## Community
 
-- [Yii 3 PHP framework](https://t.me/yii3en) — Russian-speaking Yii3 chat.
+- [Yii 3 PHP framework](https://t.me/yii3en) — Yii3 Telegram chat (English).
 
 ## Educational
 
