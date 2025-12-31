@@ -55,6 +55,7 @@
 - `2022-11-07` [Yii3 Overview 2. Вспомогательные инструменты разработки](https://habr.com/ru/articles/697586/)
 - `2022-11-29` [Yii3 Overview 3. Обзор app-* шаблонов и demo](https://habr.com/ru/articles/697676/)
 - `2023-02-23` [Yii Validator - простой и мощный](https://habr.com/ru/articles/718444/)
+- `2025-12-31` [Yii3. Официальный релиз](https://habr.com/ru/articles/982174/) - *Александр Макаров*.
 
 ### Курсы
 
